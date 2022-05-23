@@ -12,6 +12,11 @@ font-family: 'Roboto', sans-serif;
 color: rgb(240, 9, 97) !important;
 font-family: 'Roboto', sans-serif;
 }
+.btn-outline-info,
+.btn-info{
+  background-color: rgb(240, 9, 97) !important;
+  border-color: rgb(240, 9, 97) !important;
+}
     
 /* Hero Section */
 
